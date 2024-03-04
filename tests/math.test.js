@@ -84,6 +84,6 @@ expect(divi3.divide(0, 15)).toBe(0);
 });
 
 const divi4= require('../math');
-test('divisão 75 / 5 igual a 15', () => { 
-expect(divi4.divide(75, 5)).toBe(15); 
+test('divisão 25 / 5 igual a 5', () => { 
+expect(divi4.divide(25, 5)).toBe(5); 
 });

@@ -7,7 +7,8 @@ function subtract(a,b) {
 }
 
 function multiply(a,b) {
-    return a*b
+    var c = a*b
+    return c
 }
 
 function divide(a,b) {
